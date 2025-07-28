@@ -46,3 +46,7 @@ public class quadraticeq
        }
     }
 }
+
+
+
+// RUN IN NOTEPAD USING COMMAND
