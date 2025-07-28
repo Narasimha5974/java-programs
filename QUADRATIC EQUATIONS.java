@@ -47,6 +47,13 @@ public class quadraticeq
     }
 }
 
-
+// output
+//Enter the coefficient of the quadratic equation (ax^2+bx+c=0)
+//Enter value for a: 1
+//Enter value for b: -3
+//Enter value for c: 2
+//Two distinct real roots:
+//Root 1=2.0
+//Root 2=2.0
 
 // RUN IN NOTEPAD USING COMMAND
